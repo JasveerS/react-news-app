@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(88, 114, 105, 0.295)
+}
+
+header{
+    background:#03a9f4;
+    text-align: center;
+}
+.logo{
+      color: #fff;
+      font-size: 40px;
+      font-family:'Prompt'; 
+}
+
+header input{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+
+        
+        
